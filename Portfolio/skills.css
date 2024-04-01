@@ -1,0 +1,35 @@
+ body{
+    text-align: center;
+    font-size: 30px;
+    padding: -1rem;
+    /* margin-top: 100px; */
+    /* background: rgb(151, 197, 217);  */
+    
+} 
+
+li{
+    font-size: 3.5rem;
+    color: #262525;
+    border: solid .08rem;
+    padding:5px;
+    margin: -0.001;
+    /* margin: ; */
+
+    
+}
+
+.container{
+    margin: auto;
+    margin-top:60px;
+    width: 600px;
+    height: 540px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:#00d2e9;
+    border: double 0.3rem #262525;
+}
+
+.h1{
+    
+}
